@@ -1,0 +1,3 @@
+unizar_as_user0,pwd0,Louis Poizin
+unizar_as_user1,pwd1,Radia Perlman
+unizar_as_user2,pwd2,Jean Bartik
